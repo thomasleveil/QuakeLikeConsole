@@ -17,4 +17,9 @@ This [AutoHotKey]() script will bind to the most useless key on windows <kbd>F1<
 
 ![Quake III console](quake3.jpg)
 
-By default the script will work with Babun, but don't worry, if you prefer another console program you can tweak the config file `%USERPROFILE\.QuakeLikeConsole.ini`.
+By default the script will work with Babun and the <kbd>F1</kbd> key, but don't worry, you can tweak those in the config file `%USERPROFILE\.QuakeLikeConsole.ini`.
+
+Install
+-------
+
+- [Download](https://github.com/thomasleveil/QuakeLikeConsole/releases) the exe file and just run it
