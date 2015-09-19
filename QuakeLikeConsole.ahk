@@ -16,7 +16,7 @@
 ; - Cygwin           https://www.cygwin.com/
 ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-version := "1.0"
+version := "1.1"
 website := "https://goo.gl/uo0CRZ"
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -141,6 +141,7 @@ Return
 OpenConfig:
 	RunWait, %configFile%
 	LoadConfig()
+	Reload
 Return
 
 
