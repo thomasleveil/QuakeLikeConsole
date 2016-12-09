@@ -5,6 +5,7 @@ bind a key to toggle your bash console on Windows
 
 If you use one of 
 
+- [WSL Terminal](https://github.com/goreliu/wsl-terminal)
 - [Git Bash](https://git-scm.com/download/win)
 - [ConEmu](https://conemu.github.io/)
 - [Cygwin](https://www.cygwin.com/)
